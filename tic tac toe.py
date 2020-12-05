@@ -1,6 +1,7 @@
 # ---------------global variable--------------
-import numpy
 import os
+
+import numpy
 
 # making a game board
 board = ["_", "_", "_", "_", "_", "_", "_", "_", "_"]
